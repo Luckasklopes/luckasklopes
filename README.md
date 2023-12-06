@@ -8,6 +8,22 @@
 
 ---
 
+<h1 align="center"> About me 🎮 </h1>
+
+<p align='center'>
+  <a href=""><img src="https://img.shields.io/badge/RIO BRANCO-FFC800?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/BRASIL-009C03?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+  <a href=""><img src="https://img.shields.io/badge/4º PERIODO-C3C3C3?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-0072A3?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/UNINORTE-E34F26?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+  <a href=""><img src="https://img.shields.io/badge/ESTAGIARIO-8400DB?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.shields.io/badge/SECRETARIA DO ESTADO DE EDUCAÇÃO-020078?style=for-the-badge "/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luckasklopes&locale=pt-br&show_icons=true&include_all_commits=true&text_color=ffffff&card_width=990&theme=transparent&rank_icon=github" />
 </a>
@@ -33,7 +49,7 @@
 
 
 
-<!-- <a href="LINK PARA ONDE O BOTAO VAI LEVAR"><img src="LINK DA IMAGEM"/></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <a href="LINK PARA ONDE O BOTAO VAI LEVAR"><img src="LINK DA IMAGEM "/></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <!-- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luckasklopes) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Luckasklopes) -->
